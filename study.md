@@ -69,13 +69,17 @@ dropdb mydb
 What two SQL keywords precede the table name when creating a database table?
 
 ```sql
-/* replace this comment with your answer */
+
+CREATE TABLE
+
 ```
 
 What is the SQL command to remove a database table named `mytable`?
 
 ```sql
-/* replace this comment with your answer */
+
+DROP TABLE mytable;
+
 ```
 
 ## Table row CRUD
